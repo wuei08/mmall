@@ -1,0 +1,30 @@
+*.class
+
+#package file
+*.war
+*.ear
+
+#kdiff3 ignore
+*.orig
+
+target/
+
+.settings/
+.project
+.classpath
+
+
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+
+*.log
+*.cache
+*.patch
+*.tem
+
+.DS_Store
+Thumbs.db
